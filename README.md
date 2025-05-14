@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This Insurance Claim Analysis Dashboard is a data visualization tool designed to offer insights into the correlation between demographic factors, health indicators, and insurance claims. Leveraging a rich dataset, the dashboard provides an interactive experience for exploring how different variables impact insurance claim amounts.
+This Hospital Insurance Claim Analysis Dashboard is a data visualization tool designed to offer insights into the correlation between demographic factors, health indicators, and insurance claims. Leveraging a rich dataset, the dashboard provides an interactive experience for exploring how different variables impact insurance claim amounts.
 
 ## Features
 
@@ -27,8 +27,6 @@ Included visualizations:
 - Pie charts detailing the distribution of claims by region and smoking status.
 - Bar charts comparing claim amounts across genders, BMI categories, blood pressure categories, and family sizes.
 - A composite bar chart illustrating the relationship between claim amounts, gender, smoking status, and diabetic status.
-
-  ![image](https://github.com/Zaidabukhadier2003/InsuranceClaim/assets/111082981/66bb5319-f8ac-41c3-8873-cc914ffbb018)
 
 
 ## Tools Used
